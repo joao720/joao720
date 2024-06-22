@@ -1,4 +1,4 @@
-🔭 Desenvolvedor Mobile e Criador de Conteúdo.
+🔭 Desenvolvedor web/ Mobile e Criador de Conteúdo.
 
 🌱 Atualmente, construindo belos aplicativos com Flutter e Dart 💙.
 
