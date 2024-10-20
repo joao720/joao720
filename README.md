@@ -1,12 +1,10 @@
-🔭 Desenvolvedor Full Stack / Mobile e Criador de Conteúdo.
+Olá!! Eu me chamo João.
 
-🌱 Atualmente, construindo belos aplicativos com Flutter e Dart 💙.
+🔭 Trabalho Atualmente como Analista de Dados/front-end/back-end 
 
 🌱 Estou aprendendo Python e Machine Learning e Java
 
 💬 Me pergunte sobre SQL, Google Data Studio, Power BI, Excel e Python
-
-Olá! 👋 Sou uma Desenvolvedora Full Stack apaixonado por transformar ideias em código.
 
 📫Você me acha através do e-mail joaoalves40555@gmail.com
 
